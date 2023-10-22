@@ -6,7 +6,7 @@
     "node": ">= 0.10.0"
   },
   "devDependencies": {
-    "autoprefixer": "^6.3.5",
+    "autoprefixer": "^10.4.16",
     "node-sass": "4.12.0",
     "npm-run-all": "^1.7.0",
     "onchange": "^6.1.0",
